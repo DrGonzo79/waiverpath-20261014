@@ -1,0 +1,5 @@
+[
+  {"id":"parent","label":"Parent losing half a check","amount":34000,"monthlyBenefit":1840,"daysSinceNotice":27,"monthlyIncome":1840,"essentialExpenses":1760,"program":"title2","fault":"reported"},
+  {"id":"ssi","label":"SSI household with short runway","amount":6200,"monthlyBenefit":967,"daysSinceNotice":16,"monthlyIncome":1100,"essentialExpenses":1080,"program":"ssi","fault":"uncertain"},
+  {"id":"early","label":"New notice, amount disputed","amount":12800,"monthlyBenefit":2210,"daysSinceNotice":5,"monthlyIncome":2750,"essentialExpenses":2250,"program":"title2","fault":"reported"}
+]
